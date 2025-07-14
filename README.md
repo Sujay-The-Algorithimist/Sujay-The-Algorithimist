@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sujay-The-Algorithimist · he/him<br>👋 Hi, I’m Sujay 💻 CSE Undergrad | Aspiring Data Scientist 📊 Learning Data Science & Machine Learning 🧠 Solved 250+ DSA problems | C++, Python, JavaScript
+Sujay-The-Algorithimist · he/him<br>👋 Hi, I’m Sujay 💻 IT Undergrad | Aspiring Data Scientist 📊 Learning Data Science & Machine Learning 🧠 Solved 250+ DSA problems | C++, Python, JavaScript
 
 
 ## 🌐 Socials:
