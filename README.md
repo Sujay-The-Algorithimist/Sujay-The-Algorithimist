@@ -5,7 +5,7 @@
 > _"Crafting algorithms with the elegance of poetry,  
 > Building dreams with the logic of code."_
 
-<img src="https://media.giphy.com/media/26xBsQHgCBzGWvZf6/giphy.gif" width="200" alt="Typing cat" align="right">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" align="right">
 
 👋 Hi there! I’m **Sujay**, a passionate learner with a deep curiosity for **Data Science** and **Machine Learning**.  
 Whether it's untangling the mysteries of a dataset or cracking the logic behind a complex algorithm,  
@@ -39,7 +39,7 @@ I thrive on solving problems and telling stories through data.
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="https://media.giphy.com/media/jWexOOlYe241y/giphy.gif" width="180" align="right" alt="Debugging meme">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="180" align="right" alt="Debugging sticker">
 
 ### 🧠 Data & ML  
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
@@ -75,12 +75,11 @@ I thrive on solving problems and telling stories through data.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Data scientist coffee gif"><br>
-  <i>"Powered by bugs, caffeine & late-night Stack Overflow sessions."</i>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="200" alt="Coding laptop">
+  <br>
+  <i>"Fueled by coffee ☕ and infinite bugs 🐞."</i>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Sujay-The-Algorithimist&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 <!-- Designed with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
