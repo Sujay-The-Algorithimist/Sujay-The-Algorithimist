@@ -94,7 +94,6 @@ I thrive on solving problems and telling stories through data.
 
 ---
 
-### 🎨 Featured GIFs  
 
 <div align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" alt="Coding">
