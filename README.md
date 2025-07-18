@@ -11,7 +11,7 @@ I thrive on solving problems and telling stories through data.
 
 🔹 **250+ DSA Problems Solved**  
 🔹 Fluent in **C++, Python, JavaScript**  
-🔹 Currently building cool things with **ML, Flask, and MongoDB**  
+🔹 Currently building cool things with **ML and Flask**  
 
 ---
 
