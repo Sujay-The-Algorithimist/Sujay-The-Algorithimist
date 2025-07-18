@@ -83,8 +83,8 @@ I thrive on solving problems and telling stories through data.
 
 ---
 
-🎵 Currently Coding To
-[![Spotify](https://novatorem-psi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)  
+### 🎵 Currently Coding To
+[![Spotify](https://novatorem-psi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/sujay)  
 ---
 
 ### 🔝 Most Contributed Repositories  
