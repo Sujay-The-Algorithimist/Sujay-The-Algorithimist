@@ -57,6 +57,19 @@ I thrive on solving problems and telling stories through data.
 
 ---
 
+## ⚙️ Currently Working On  
+> Making AI models that predict everything… except my own life choices.
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" alt="Coding">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Debugging">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Machine Learning">
+</div>
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -94,46 +107,9 @@ I thrive on solving problems and telling stories through data.
 
 ---
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" alt="Coding">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Debugging">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Machine Learning">
-</div>
-
----
-
 ### 🚀 Weekly Development Breakdown  
 ```text
 Python        ████████████████████░░░░   80% 
 C++           ██████████████░░░░░░░░░   60% 
 JavaScript    █████████░░░░░░░░░░░░░░   40% 
 Machine Learning █████████████████░░░░   75% 
-```
-
----
-
-### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sujay-The-Algorithimist&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
-
-### 🎵 Currently Coding To  
-[![Spotify](https://novatorem-psi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)  
-
----
-
-### ✨ Random Dev Meme  
-<img src="https://random-memer.herokuapp.com/" width="300" alt="Random dev meme">  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="150">
-  <br>
-  <b>Thanks for visiting! ❤️</b>
-</p>  
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
-</div>
