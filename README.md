@@ -83,8 +83,8 @@ I thrive on solving problems and telling stories through data.
 
 ---
 
-### ✍️ Dev Quote of the Day  
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in)  
+🎵 Currently Coding To
+<img src="https://i.imgur.com/vv1TbYi.png" width="300" alt="This content isn't available sticker">
 
 ---
 
