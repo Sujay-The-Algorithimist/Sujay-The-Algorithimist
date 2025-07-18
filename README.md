@@ -3,7 +3,9 @@
 🎓 IT Undergrad · 💭 Dreaming in Code · 📊 Data Whisperer in the Making
 
 > _"Crafting algorithms with the elegance of poetry,  
-> Building dreams with the logic of code."_  
+> Building dreams with the logic of code."_
+
+<img src="https://media.giphy.com/media/26xBsQHgCBzGWvZf6/giphy.gif" width="200" alt="Typing cat" align="right">
 
 👋 Hi there! I’m **Sujay**, a passionate learner with a deep curiosity for **Data Science** and **Machine Learning**.  
 Whether it's untangling the mysteries of a dataset or cracking the logic behind a complex algorithm,  
@@ -11,7 +13,7 @@ I thrive on solving problems and telling stories through data.
 
 🔹 **250+ DSA Problems Solved**  
 🔹 Fluent in **C++, Python, JavaScript**  
-🔹 Currently building cool things with **ML and Flask**  
+🔹 Currently building cool things with **ML, Flask, and MongoDB**
 
 ---
 
@@ -37,6 +39,8 @@ I thrive on solving problems and telling stories through data.
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<img src="https://media.giphy.com/media/jWexOOlYe241y/giphy.gif" width="180" align="right" alt="Debugging meme">
+
 ### 🧠 Data & ML  
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -49,9 +53,6 @@ I thrive on solving problems and telling stories through data.
 ### 🗃️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -73,8 +74,13 @@ I thrive on solving problems and telling stories through data.
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Data scientist coffee gif"><br>
+  <i>"Powered by bugs, caffeine & late-night Stack Overflow sessions."</i>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=Sujay-The-Algorithimist&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> _“Consistency may be underrated, but it’s the secret to mastery.”_
+---
 
 <!-- Designed with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
