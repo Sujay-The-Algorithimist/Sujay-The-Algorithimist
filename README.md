@@ -84,8 +84,7 @@ I thrive on solving problems and telling stories through data.
 ---
 
 🎵 Currently Coding To
-<img src="https://i.imgur.com/vv1TbYi.png" width="300" alt="This content isn't available sticker">
-
+[![Spotify](https://novatorem-psi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)  
 ---
 
 ### 🔝 Most Contributed Repositories  
