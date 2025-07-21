@@ -58,7 +58,7 @@ I thrive on solving problems and telling stories through data.
 ---
 
 ## ⚙️ Currently Working On  
-> Making AI models that predict everything… except my own life choices.
+>Learning OLLAMA and building a RAG system(streamlit version) and implementing an AI Recruter Agency.
 
 ---
 
